@@ -48,3 +48,5 @@ Commit and push:
 git add README.md
 git commit -m "Add project README"
 git push
+
+![Dashboard](screenshots/Screenshot%20(6).png)
